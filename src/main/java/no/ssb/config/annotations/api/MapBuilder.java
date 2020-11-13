@@ -1,4 +1,4 @@
-package no.ssb.config.annotations.handler;
+package no.ssb.config.annotations.api;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
